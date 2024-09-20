@@ -8,9 +8,9 @@
 ##### H5
 ###### H6
 
-Este texto esta en *negrita* y este también esta en __negrita__
+Este texto esta en **negrita** y este también esta en __negrita__
 
-Este texto esta en **cursiva** y este también esta en _cursiva_
+Este texto esta en *cursiva* y este también esta en _cursiva_
 
 **palabra 1 _palabra_**
 
