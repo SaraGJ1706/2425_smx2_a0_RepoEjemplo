@@ -36,5 +36,5 @@ Texto 3
 
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
 
-![Caballo]( https://github.com/SaraGJ1706/2425_smx2_a0_RepoEjemplo/blob/main/caballo.jpg"Titulo opcional de la imagen")
+![Caballo]( https://github.com/SaraGJ1706/2425_smx2_a0_RepoEjemplo/blob/main/caballo.jpg "Titulo opcional de la imagen")
 
