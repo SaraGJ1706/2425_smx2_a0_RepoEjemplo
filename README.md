@@ -38,3 +38,12 @@ Texto 3
 
 ![Caballo]( https://github.com/SaraGJ1706/2425_smx2_a0_RepoEjemplo/blob/main/caballo.jpg "Titulo opcional de la imagen")
 
+|Columna 1 |Columna 2 |Columna 3 |
+|----------|:----------:|----------:|
+|Col 3 es |alinear-izquierda|$1600|
+|Col 2 es |alinear-centrada|$12|
+|zebra stripes |son limpias|$1|
+
+
+
+
